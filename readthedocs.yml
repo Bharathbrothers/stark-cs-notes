@@ -12,6 +12,6 @@ sphinx:
 # Build documentation with MkDocs
 #mkdocs:
 #  configuration: mkdocs.yml
-theme: 'readthedocs'
+theme: readthedocs
 # Optionally build your docs in additional formats such as PDF and ePub
 formats: all
