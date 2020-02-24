@@ -56,9 +56,9 @@ html_static_path = ['_static']
 
 
 # markdown with sphinx
-from recommonmark.
-˓→parser import CommonMarkParser
-source_parsers = {
-'.md': CommonMarkParser,
-}
-source_suffix = ['.rst', '.md']
+#from recommonmark.
+#˓→parser import CommonMarkParser
+#source_parsers = {
+#'.md': CommonMarkParser,
+#}
+#source_suffix = ['.rst', '.md']
